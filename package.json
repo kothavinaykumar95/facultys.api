@@ -1,0 +1,26 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "this is nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:students":"nodemon ./students.js",
+    "start:facultys":"nodemon ./facultys.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "project"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "vita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}

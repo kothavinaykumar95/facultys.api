@@ -1,0 +1,36 @@
+[
+    {
+        "name":"student1",
+        "age":17,
+        "gender":"male",
+        "address": {
+            "address1":"lane1",
+            "address2":"lane2",
+            "city":"karimnagar",
+            "state":"telangana"
+
+        },
+        "hobbies": [
+            "playing cricket",
+            "listening to music"
+        ]
+
+    },
+    {
+        "name":"student2",
+        "age":18,
+        "gender":"female",
+        "address": {
+            "address1":"lane3",
+            "address2":"lane4",
+            "city":"warangal",
+            "state":"telangana"
+
+        },
+        "hobbies": [
+            "playing chess",
+            "watching movies"
+        ]
+
+    }
+]
